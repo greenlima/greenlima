@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ferran</h1>
 <h3 align="center">I work on data, models and insights</h3>
 
-- 🔭 I’m currently working on [allpurpose_gpt](https://github.com/greenlima/allpurpose_gpt)
+- 🔭 I’m currently working on [allpurpose_gpt](https://github.com/greenlima/allpurpose_gpt) and [crisis_helper](https://github.com/hbaagil/Multimodal_Crisis_Project)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
