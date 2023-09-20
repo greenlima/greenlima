@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [allpurpose_gpt](https://github.com/greenlima/allpurpose_gpt) and [crisis_helper](https://github.com/hbaagil/Multimodal_Crisis_Project)
 - 💪 I invested some years working on [karaloop](https://github.com/xmotion-project/karaloop)
-- 📄 My academic work was at the interface between statistics, machine learning, neuroscience, neurotechnology, robotics and human-computer interaction. Check [google scholar](https://scholar.google.com/citations?user=XTcJiLwAAAAJ&hl=en)
+- 📄 My academic work has been at the interface between statistics, machine learning, neuroscience, neurotechnology, robotics and human-computer interaction. Check [google scholar](https://scholar.google.com/citations?user=XTcJiLwAAAAJ&hl=en)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
