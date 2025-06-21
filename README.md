@@ -2,11 +2,11 @@
 <h3 align="center">I work on data, models and insights</h3>
 
 - 🔭 I’m currently working at [CREALP](https://www.crealp.ch/en/center-for-research-on-the-alpine-environment-3/), where I:
-  • Develop privacy-focused AI applications
-  • Provide AI/ML consulting services to stakeholders for natural disaster prevention
-  • Develop ML models for multi-hazard risk mapping applications
+  - Develop privacy-focused AI applications
+  - Provide AI/ML consulting services to stakeholders for natural disaster prevention
+  - Develop ML models for multi-hazard risk mapping applications
 - 💪 I invested some years working on [karaloop](https://github.com/xmotion-project/karaloop)
-- 📄 My academic work was at the interface between statistics, machine learning, neuroscience, neurotechnology, robotics and human-computer interaction. Check my  [google scholar](https://scholar.google.com/citations?user=XTcJiLwAAAAJ&hl=en) profile
+- 📄 My past academic work was at the interface between statistics, machine learning, neuroscience, neurotechnology, robotics and human-computer interaction. Check my  [google scholar](https://scholar.google.com/citations?user=XTcJiLwAAAAJ&hl=en) profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
