@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ferran</h1>
 <h3 align="center">I work on data, models and insights</h3>
 
-- 🔭 I’m currently developing models for the prediction of natural disasters in the Swiss Alps, specifically debris flows
-- ⛓️ Here a couple of side projects: [allpurpose_gpt](https://github.com/greenlima/allpurpose_gpt) and [crisis_helper](https://github.com/hbaagil/Multimodal_Crisis_Project)
+- 🔭 I’m currently working at [CREALP](https://www.crealp.ch/en/center-for-research-on-the-alpine-environment-3/), where I:
+  • Develop privacy-focused AI applications
+  • Provide AI/ML consulting services to stakeholders for natural disaster prevention
+  • Develop ML models for multi-hazard risk mapping applications
 - 💪 I invested some years working on [karaloop](https://github.com/xmotion-project/karaloop)
-- 📄 My academic work has been at the interface between statistics, machine learning, neuroscience, neurotechnology, robotics and human-computer interaction. Check my  [google scholar](https://scholar.google.com/citations?user=XTcJiLwAAAAJ&hl=en) profile
+- 📄 My academic work was at the interface between statistics, machine learning, neuroscience, neurotechnology, robotics and human-computer interaction. Check my  [google scholar](https://scholar.google.com/citations?user=XTcJiLwAAAAJ&hl=en) profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
