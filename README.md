@@ -6,7 +6,7 @@
   - Provide AI/ML consulting services to stakeholders for natural disaster prevention
   - Develop ML models for multi-hazard risk mapping applications
 - 💪 I invested some years working on [karaloop](https://github.com/xmotion-project/karaloop)
-- 📄 My past academic work was at the interface between statistics, machine learning, neuroscience, neurotechnology, robotics and human-computer interaction. Check my  [google scholar](https://scholar.google.com/citations?user=XTcJiLwAAAAJ&hl=en) profile
+- 📄 My past academic work was at the interface between statistics, machine learning, neuroscience, neurotechnology, robotics, human-computer interaction and education. Check my  [google scholar](https://scholar.google.com/citations?user=XTcJiLwAAAAJ&hl=en) profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
